@@ -1,0 +1,146 @@
+[16-10-17 09:38:18]-Undefined variable: leftmenu in C:\xampp\htdocs\test\inc\data.inc.php:70
+
+[16-10-17 09:38:18]-T_T sry in C:\xampp\htdocs\test\inc\data.inc.php:71
+
+[16-10-17 09:38:18]-Undefined variable: leftmenu in C:\xampp\htdocs\test\inc\data.inc.php:135
+
+[16-10-17 09:46:40]-Ошибка в таблице in C:\xampp\htdocs\test\inc\data.inc.php:153
+
+[16-10-17 09:46:40]-Ошибка в таблице in C:\xampp\htdocs\test\inc\data.inc.php:155
+
+[16-10-17 09:52:46]-Ошибка в таблице in C:\xampp\htdocs\test\inc\data.inc.php:155
+
+[16-10-17 09:53:49]-Ошибка в таблице in C:\xampp\htdocs\test\inc\data.inc.php:155
+
+[16-10-17 09:53:53]-Ошибка в таблице in C:\xampp\htdocs\test\inc\data.inc.php:155
+
+[16-10-17 09:54:17]-Ошибка в таблице in C:\xampp\htdocs\test\inc\data.inc.php:156
+
+[16-10-17 09:54:19]-Ошибка в таблице in C:\xampp\htdocs\test\inc\data.inc.php:156
+
+[16-10-17 09:55:38]-Ошибка в таблице in C:\xampp\htdocs\test\inc\data.inc.php:156
+
+[16-10-17 09:55:59]-Use of undefined constant kek - assumed 'kek' in C:\xampp\htdocs\test\inc\data.inc.php:152
+
+[16-10-17 09:55:59]-Ошибка в таблице in C:\xampp\htdocs\test\inc\data.inc.php:156
+
+[16-10-17 09:58:08]-Use of undefined constant kek - assumed 'kek' in C:\xampp\htdocs\test\inc\data.inc.php:152
+
+[16-10-17 09:58:08]-Ошибка в таблице in C:\xampp\htdocs\test\inc\data.inc.php:156
+
+[16-10-17 10:04:09]-Use of undefined constant kek - assumed 'kek' in C:\xampp\htdocs\test\inc\data.inc.php:151
+
+[16-10-17 10:04:09]-is_int() expects exactly 1 parameter, 2 given in C:\xampp\htdocs\test\inc\lib.inc.php:3
+
+[16-10-17 10:04:09]-is_int() expects exactly 1 parameter, 2 given in C:\xampp\htdocs\test\inc\lib.inc.php:3
+
+[16-10-17 10:04:09]-Ошибка в таблице in C:\xampp\htdocs\test\inc\data.inc.php:153
+
+[16-10-17 10:04:09]-Use of undefined constant kek - assumed 'kek' in C:\xampp\htdocs\test\inc\data.inc.php:154
+
+[16-10-17 10:04:09]-Ошибка в таблице in C:\xampp\htdocs\test\inc\data.inc.php:155
+
+[16-10-17 10:05:29]-Use of undefined constant kek - assumed 'kek' in C:\xampp\htdocs\test\inc\data.inc.php:151
+
+[16-10-17 10:05:29]-Use of undefined constant kek - assumed 'kek' in C:\xampp\htdocs\test\inc\data.inc.php:154
+
+[16-10-17 10:05:29]-Ошибка в таблице in C:\xampp\htdocs\test\inc\data.inc.php:155
+
+[16-10-17 10:07:37]-Use of undefined constant error - assumed 'error' in C:\xampp\htdocs\test\inc\data.inc.php:151
+
+[16-10-17 10:08:04]-Use of undefined constant kek - assumed 'kek' in C:\xampp\htdocs\test\inc\data.inc.php:151
+
+[16-10-17 10:08:04]-Ошибка в таблице in C:\xampp\htdocs\test\inc\data.inc.php:152
+
+[16-10-17 11:05:48]-Undefined index: id in C:\xampp\htdocs\test\inc\data.inc.php:38
+
+[16-10-17 11:05:48]-Use of undefined constant kek - assumed 'kek' in C:\xampp\htdocs\test\inc\data.inc.php:156
+
+[16-10-17 11:05:48]-Ошибка в таблице in C:\xampp\htdocs\test\inc\data.inc.php:157
+
+[16-10-17 11:10:22]-Undefined variable: title in C:\xampp\htdocs\test\inc\data.inc.php:17
+
+[16-10-17 11:10:22]-Undefined index: id in C:\xampp\htdocs\test\inc\data.inc.php:37
+
+[16-10-17 11:10:22]-Use of undefined constant kek - assumed 'kek' in C:\xampp\htdocs\test\inc\data.inc.php:173
+
+[16-10-17 11:10:22]-Ошибка в таблице in C:\xampp\htdocs\test\inc\data.inc.php:174
+
+[16-10-17 11:10:41]-Undefined variable: title in C:\xampp\htdocs\test\inc\data.inc.php:17
+
+[16-10-17 11:10:41]-Undefined index: id in C:\xampp\htdocs\test\inc\data.inc.php:37
+
+[16-10-17 11:10:41]-Use of undefined constant kek - assumed 'kek' in C:\xampp\htdocs\test\inc\data.inc.php:174
+
+[16-10-17 11:10:41]-Ошибка в таблице in C:\xampp\htdocs\test\inc\data.inc.php:175
+
+[16-10-17 11:11:29]-Undefined variable: title in C:\xampp\htdocs\test\inc\data.inc.php:17
+
+[16-10-17 11:11:29]-Use of undefined constant kek - assumed 'kek' in C:\xampp\htdocs\test\inc\data.inc.php:174
+
+[16-10-17 11:11:29]-Ошибка в таблице in C:\xampp\htdocs\test\inc\data.inc.php:175
+
+[16-10-17 11:12:02]-Undefined variable: title in C:\xampp\htdocs\test\inc\data.inc.php:17
+
+[16-10-17 11:12:02]-Use of undefined constant kek - assumed 'kek' in C:\xampp\htdocs\test\inc\data.inc.php:174
+
+[16-10-17 11:12:02]-Ошибка в таблице in C:\xampp\htdocs\test\inc\data.inc.php:175
+
+[16-10-17 11:12:43]-Use of undefined constant kek - assumed 'kek' in C:\xampp\htdocs\test\inc\data.inc.php:174
+
+[16-10-17 11:12:43]-Ошибка в таблице in C:\xampp\htdocs\test\inc\data.inc.php:175
+
+[16-10-17 11:13:35]-Undefined variable: welcome in C:\xampp\htdocs\test\inc\data.inc.php:13
+
+[16-10-17 11:13:35]-Use of undefined constant kek - assumed 'kek' in C:\xampp\htdocs\test\inc\data.inc.php:174
+
+[16-10-17 11:13:35]-Ошибка в таблице in C:\xampp\htdocs\test\inc\data.inc.php:175
+
+[16-10-17 11:13:41]-Undefined variable: welcome in C:\xampp\htdocs\test\inc\data.inc.php:13
+
+[16-10-17 11:13:41]-Use of undefined constant kek - assumed 'kek' in C:\xampp\htdocs\test\inc\data.inc.php:174
+
+[16-10-17 11:13:41]-Ошибка в таблице in C:\xampp\htdocs\test\inc\data.inc.php:175
+
+[16-10-17 11:13:48]-Undefined variable: welcome in C:\xampp\htdocs\test\inc\data.inc.php:13
+
+[16-10-17 11:13:48]-Use of undefined constant kek - assumed 'kek' in C:\xampp\htdocs\test\inc\data.inc.php:174
+
+[16-10-17 11:13:48]-Ошибка в таблице in C:\xampp\htdocs\test\inc\data.inc.php:175
+
+[16-10-17 11:13:53]-Undefined variable: welcome in C:\xampp\htdocs\test\inc\data.inc.php:13
+
+[16-10-17 11:13:53]-Undefined index: id in C:\xampp\htdocs\test\inc\data.inc.php:14
+
+[16-10-17 11:13:53]-Use of undefined constant kek - assumed 'kek' in C:\xampp\htdocs\test\inc\data.inc.php:174
+
+[16-10-17 11:13:53]-Ошибка в таблице in C:\xampp\htdocs\test\inc\data.inc.php:175
+
+[16-10-17 11:14:26]-Undefined index: id in C:\xampp\htdocs\test\inc\data.inc.php:27
+
+[16-10-17 11:14:26]-Use of undefined constant kek - assumed 'kek' in C:\xampp\htdocs\test\inc\data.inc.php:174
+
+[16-10-17 11:14:26]-Ошибка в таблице in C:\xampp\htdocs\test\inc\data.inc.php:175
+
+[16-10-17 11:14:34]-Use of undefined constant kek - assumed 'kek' in C:\xampp\htdocs\test\inc\data.inc.php:174
+
+[16-10-17 11:14:34]-Ошибка в таблице in C:\xampp\htdocs\test\inc\data.inc.php:175
+
+[16-10-17 11:15:30]-Undefined index: id in C:\xampp\htdocs\test\inc\data.inc.php:27
+
+[16-10-17 11:15:30]-Use of undefined constant kek - assumed 'kek' in C:\xampp\htdocs\test\inc\data.inc.php:174
+
+[16-10-17 11:15:30]-Ошибка в таблице in C:\xampp\htdocs\test\inc\data.inc.php:175
+
+[16-10-17 11:53:00]-Undefined index: id in C:\xampp\htdocs\test\inc\data.inc.php:27
+
+[16-10-17 11:53:00]-Use of undefined constant kek - assumed 'kek' in C:\xampp\htdocs\test\inc\data.inc.php:174
+
+[16-10-17 11:53:00]-Ошибка в таблице in C:\xampp\htdocs\test\inc\data.inc.php:175
+
+[16-10-17 11:53:17]-Undefined index: id in C:\xampp\htdocs\test\inc\data.inc.php:27
+
+[16-10-17 11:53:17]-Use of undefined constant kek - assumed 'kek' in C:\xampp\htdocs\test\inc\data.inc.php:174
+
+[16-10-17 11:53:17]-Ошибка в таблице in C:\xampp\htdocs\test\inc\data.inc.php:175
+
